@@ -1,3 +1,4 @@
 test 1
 test 2
 test 3
+test 4 = commiting changes using Github and pulling using the terminal to get updated codes
